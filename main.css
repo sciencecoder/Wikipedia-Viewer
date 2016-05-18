@@ -1,0 +1,25 @@
+body {
+  background-color: grey;
+ height: 100%;
+}
+.hidden {
+  display: none;
+}
+
+.ran a{
+  font-size: 2em;
+  color: black;
+  margin-top
+}
+.room {
+  background-color: white;
+  border-bottom: 10px solid;
+  border-radius:5%;
+  width: 60%;
+  margin-left: 20%;
+}
+
+.searchResult {
+margin: 20px 40px 0 40px;
+  background-color: darkgreen;
+}
