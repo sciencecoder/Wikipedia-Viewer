@@ -7,14 +7,6 @@ $("button").on("click", function() {
        $(".searchResult").append("<div class='room col-md-12'>" + data[2][i] + "</div>");
        }
   
-      
- 
-      
-     
    })
    
-   
-   
-  
-  
 })
